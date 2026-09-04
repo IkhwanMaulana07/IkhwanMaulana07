@@ -15,9 +15,9 @@
 
 </div>
 
----
+<br>
 
-### 🚀 About Me
+## 🚀 About Me
 
 ```yaml
 name: Ikhwan Maulana
@@ -35,12 +35,12 @@ fun_fact: "Turned Black Soldier Fly larvae into a full computer vision pipeline 
 - 🏆 Certified Programmer — National Professional Certification Board (BNSP/LSP), 2025
 - 🤝 Open to collaborate on **AI/ML research & open-source projects**
 
----
+<br>
 
-### 🧠 AI Engineer, Machine Learning & Deep Learning Toolkit
+## 🧠 AI Engineer, Machine Learning & Deep Learning Toolkit
 
 <details open>
-<summary><b>🔥 Deep Learning Frameworks</b></summary>
+<summary><b>🔥&nbsp; Deep Learning Frameworks</b></summary>
 <br>
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -54,7 +54,7 @@ fun_fact: "Turned Black Soldier Fly larvae into a full computer vision pipeline 
 </details>
 
 <details open>
-<summary><b>📈 Classical Machine Learning</b></summary>
+<summary><b>📈&nbsp; Classical Machine Learning</b></summary>
 <br>
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -65,7 +65,7 @@ fun_fact: "Turned Black Soldier Fly larvae into a full computer vision pipeline 
 </details>
 
 <details open>
-<summary><b>👁️ Computer Vision</b></summary>
+<summary><b>👁️&nbsp; Computer Vision</b></summary>
 <br>
 
 ![YOLO](https://img.shields.io/badge/YOLOv8%2Fv11-111F68?style=for-the-badge&logo=ultralytics&logoColor=white)
@@ -78,7 +78,7 @@ fun_fact: "Turned Black Soldier Fly larvae into a full computer vision pipeline 
 </details>
 
 <details open>
-<summary><b>✨ Generative AI & LLM Engineering</b></summary>
+<summary><b>✨&nbsp; Generative AI & LLM Engineering</b></summary>
 <br>
 
 ![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
@@ -91,7 +91,7 @@ fun_fact: "Turned Black Soldier Fly larvae into a full computer vision pipeline 
 </details>
 
 <details open>
-<summary><b>🗂️ Vector Databases & Retrieval</b></summary>
+<summary><b>🗂️&nbsp; Vector Databases & Retrieval</b></summary>
 <br>
 
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
@@ -101,7 +101,7 @@ fun_fact: "Turned Black Soldier Fly larvae into a full computer vision pipeline 
 </details>
 
 <details open>
-<summary><b>⚙️ MLOps & Model Deployment</b></summary>
+<summary><b>⚙️&nbsp; MLOps & Model Deployment</b></summary>
 <br>
 
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
@@ -114,7 +114,7 @@ fun_fact: "Turned Black Soldier Fly larvae into a full computer vision pipeline 
 </details>
 
 <details open>
-<summary><b>☁️ Cloud & GPU Computing</b></summary>
+<summary><b>☁️&nbsp; Cloud & GPU Computing</b></summary>
 <br>
 
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
@@ -125,7 +125,7 @@ fun_fact: "Turned Black Soldier Fly larvae into a full computer vision pipeline 
 </details>
 
 <details open>
-<summary><b>📊 Data Science & Analysis</b></summary>
+<summary><b>📊&nbsp; Data Science & Analysis</b></summary>
 <br>
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -137,7 +137,7 @@ fun_fact: "Turned Black Soldier Fly larvae into a full computer vision pipeline 
 </details>
 
 <details open>
-<summary><b>💻 Programming Languages</b></summary>
+<summary><b>💻&nbsp; Programming Languages</b></summary>
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -150,7 +150,7 @@ fun_fact: "Turned Black Soldier Fly larvae into a full computer vision pipeline 
 </details>
 
 <details open>
-<summary><b>🌐 Web, Mobile & Backend</b></summary>
+<summary><b>🌐&nbsp; Web, Mobile & Backend</b></summary>
 <br>
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -162,7 +162,7 @@ fun_fact: "Turned Black Soldier Fly larvae into a full computer vision pipeline 
 </details>
 
 <details open>
-<summary><b>🛠️ Dev Tools</b></summary>
+<summary><b>🛠️&nbsp; Dev Tools</b></summary>
 <br>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -172,23 +172,27 @@ fun_fact: "Turned Black Soldier Fly larvae into a full computer vision pipeline 
 
 </details>
 
----
+<br>
 
-### 💡 Selected AI & Machine Learning Projects
+## 💡 Selected AI & Machine Learning Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🐝 BSF Larva Growth Stage Detection** *(Bachelor's Thesis)*
+### 🐝 BSF Larva Growth Stage Detection
+*Bachelor's Thesis*
+
 `YOLOv11s` `K-Means` `TFLite` `Flutter`
 
 End-to-end CV system detecting 4 growth stages of Black Soldier Fly larvae from 21,974 annotated images — **0.9723 precision**, **0.8720 mAP50** — deployed on-device via TensorFlow Lite in Flutter.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🎬 AI-Powered Movie Recommender**
+### 🎬 AI-Powered Movie Recommender
+*Personal Project*
+
 `Streamlit` `Content-Based` `Collaborative Filtering`
 
 Recommendation engine using cosine similarity over movie metadata, with real-time search, filtering, and dynamic poster fetching.
@@ -196,17 +200,21 @@ Recommendation engine using cosine similarity over movie metadata, with real-tim
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🖼️ AI-Based Image Classification App**
+### 🖼️ AI-Based Image Classification App
+*Personal Project*
+
 `TensorFlow/Keras` `Streamlit`
 
 Interactive image classification powered by pre-trained CNNs with automated preprocessing and a beginner-friendly UI.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🏪 Malaka Jaya MSME Community Portal**
+### 🏪 Malaka Jaya MSME Community Portal
+*Community Project*
+
 `PHP` `MySQL` `Leaflet JS` `Gemini API`
 
 3-tier role platform with merchant dashboards, OTP auth, and an integrated Gemini-powered AI chatbot.
@@ -215,11 +223,11 @@ Interactive image classification powered by pre-trained CNNs with automated prep
 </tr>
 </table>
 
-📌 *More projects available in my repositories below.*
+<p align="center">📌 <i>More projects available in my repositories below.</i></p>
 
----
+<br>
 
-### 📊 GitHub Stats & Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -228,29 +236,27 @@ Interactive image classification powered by pre-trained CNNs with automated prep
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=IkhwanMaulana07&theme=radical&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IkhwanMaulana07&theme=react-dark&hide_border=true" width="95%"/>
-
 <img src="https://github-profile-trophy.vercel.app/?username=IkhwanMaulana07&theme=radical&no-frame=true&row=1&column=6" />
 
 </div>
 
-<!--
-  🐍 Snake contribution animation — requires a GitHub Action in your repo to generate
-  github-contribution-grid-snake.svg. See: https://github.com/Platane/snk
--->
+<br>
+
+## 🐍 Contribution Snake
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/IkhwanMaulana07/IkhwanMaulana07/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
----
+<br>
 
 <div align="center">
 
-### 🌐 Let's Connect
+## 🌐 Let's Connect
 
 <a href="https://linkedin.com/in/ikhwan-maulana-1700b842b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:ikhwanmaulana796@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://instagram.com/alafassy_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://instagram.com/USERNAME_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://github.com/IkhwanMaulana07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br><br>
