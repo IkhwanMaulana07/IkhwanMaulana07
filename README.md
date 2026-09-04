@@ -304,15 +304,20 @@ Time-series forecasting dashboard with automated model selection, hyperparameter
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=IkhwanMaulana07&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkhwanMaulana07&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IkhwanMaulana07&theme=radical&hide_border=true" />
-<img src="https://github-profile-trophy.vercel.app/?username=IkhwanMaulana07&theme=radical&no-frame=true&row=1&column=7&margin-w=8" />
-
 </div>
 
 ## 🐍 Contribution Activity
 
 <div align="center">
+
+<img src="https://streak-stats.demolab.com?user=IkhwanMaulana07&theme=radical&hide_border=true&background=0D1117&fire=FF4757&currStreakLabel=FFD700&ring=FF4757&sideNums=FF4757&currStreakNum=FFD700" width="80%"/>
+
+<br/>
+
 <img src="https://raw.githubusercontent.com/IkhwanMaulana07/IkhwanMaulana07/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=IkhwanMaulana07&theme=radical&no-frame=true&row=1&column=7&margin-w=8" />
+
 </div>
 
 ---
@@ -323,11 +328,11 @@ Time-series forecasting dashboard with automated model selection, hyperparameter
 
 <a href="https://linkedin.com/in/ikhwan-maulana-1700b842b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:ikhwanmaulana796@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://instagram.com/ikhwanmaulana07"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://instagram.com/alafassy_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://github.com/IkhwanMaulana07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <i>⭐️ If you find my work interesting, feel free to star a repo or reach out!</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:000000,50:0f2557,100:1b3a6b&height=120&section=footer" width="100%"/>
 
 </div>
