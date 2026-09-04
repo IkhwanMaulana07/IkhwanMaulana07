@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Ikhwan%20Maulana&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%7C%20Computer%20Vision%20%7C%20Generative%20AI&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Ikhwan%20Maulana&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%7C%20Computer%20Vision%20%7C%20Generative%20AI&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=800&lines=Turning+Data+into+Production-Ready+AI+%F0%9F%9A%80;YOLO+%7C+LLMs+%7C+Vector+DBs+%7C+Cloud+Deployment+%F0%9F%A7%A0;End-to-End+Machine+Learning+Lifecycle+%E2%9A%99%EF%B8%8F;Building+Scalable+AI+Infrastructure+%F0%9F%8C%8D;MLOps+%7C+Deep+Learning+%7C+Computer+Vision+%F0%9F%94%A5" alt="Typing SVG" />
 
