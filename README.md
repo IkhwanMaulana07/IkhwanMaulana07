@@ -299,22 +299,10 @@ Time-series forecasting dashboard with automated model selection, hyperparameter
 
 ## 📊 GitHub Stats
 
-<!--
-  ⚠️ PENTING: Ganti "YOUR-DEPLOYMENT-URL" di bawah ini dengan domain hasil deploy
-  github-readme-stats milikmu sendiri di Vercel. Instance publik
-  (github-readme-stats.vercel.app) sering DEPLOYMENT_PAUSED / rate limited.
-
-  Cara deploy sendiri (gratis, ~2 menit):
-  1. Buka: https://vercel.com/new/clone?repository-url=https://github.com/anuraghazra/github-readme-stats
-  2. Login pakai akun GitHub kamu, klik "Deploy"
-  3. Setelah selesai, copy domain yang diberikan Vercel (misal: github-readme-stats-abc123.vercel.app)
-  4. Ganti semua "YOUR-DEPLOYMENT-URL" di bawah dengan domain itu
--->
-
 <div align="center">
 
-<img height="180" src="https://YOUR-DEPLOYMENT-URL.vercel.app/api?username=IkhwanMaulana07&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180" src="https://YOUR-DEPLOYMENT-URL.vercel.app/api/top-langs/?username=IkhwanMaulana07&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+<img height="180" src="https://github-readme-stats-brown-gamma-13.vercel.app/api?username=IkhwanMaulana07&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-stats-brown-gamma-13.vercel.app/api/top-langs/?username=IkhwanMaulana07&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 
 </div>
 
