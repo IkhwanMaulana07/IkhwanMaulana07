@@ -1,340 +1,305 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:000000,50:0f2557,100:1b3a6b&height=250&section=header&text=Ikhwan%20Maulana&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%7C%20Computer%20Vision%20%7C%20Generative%20AI&descAlignY=55&descSize=18" width="100%"/>
+<!-- Grand Luxury Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,35:0a192f,70:002b5b,100:030712&height=280&section=header&text=IKHWAN%20MAULANA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20Machine%20Learning%20Engineer&descAlignY=58&descSize=18" width="100%" alt="Ikhwan Maulana Header Banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=800&lines=Turning+Data+into+Production-Ready+AI+%F0%9F%9A%80;YOLO+%7C+LLMs+%7C+Vector+DBs+%7C+Cloud+Deployment+%F0%9F%A7%A0;End-to-End+Machine+Learning+Lifecycle+%E2%9A%99%EF%B8%8F;Building+Scalable+AI+Infrastructure+%F0%9F%8C%8D;MLOps+%7C+Deep+Learning+%7C+Computer+Vision+%F0%9F%94%A5" alt="Typing SVG" />
+<!-- Dynamic Luxury Typing Headline -->
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=860&lines=Full-Stack+Software+Engineer+%26+System+Architect+%E2%9A%A1;Architecting+Production+Web+Apps+%26+High-Throughput+APIs+%F0%9F%8F%9B%EF%B8%8F;End-to-End+Lifecycle%3A+React+%E2%80%A2+Node.js+%E2%80%A2+MySQL%2FPostgreSQL+%E2%80%A2+Cloud+%F0%9F%9A%80;Edge+AI+%26+Computer+Vision%3A+YOLOv11s+%E2%80%A2+TFLite+%E2%80%A2+Flutter+%F0%9F%90%9D;B.Sc+Informatics+Engineering+(GPA+3.78)+%E2%80%A2+BNSP+Certified+%F0%9F%8F%86" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ikhwan-maulana-1700b842b)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikhwanmaulana796@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ikhwanmaulana07)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IkhwanMaulana07)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-react-ochre-gamma.vercel.app/)
+<!-- Real-Time Availability & Professional Status Badge -->
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20FULLSTACK%20%26%20SWE%20ROLES-10B981?style=for-the-badge&logo=statuspage&logoColor=white" alt="Availability Status" />
+  <img src="https://komarev.com/ghpvc/?username=IkhwanMaulana07&label=PROFILE%20VISITS&color=06B6D4&style=for-the-badge" alt="Profile Views" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=IkhwanMaulana07&label=Profile%20Views&color=2EA043&style=for-the-badge)
+<!-- Executive Contact & Social Deck -->
+<p align="center">
+  <a href="https://portfolio-ikhwan-maulana.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Portfolio-030712?style=for-the-badge&logo=vercel&logoColor=38BDF8&labelColor=030712" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/ikhwan-maulana-1700b842b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ikhwanmaulana796@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/IkhwanMaulana07" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://instagram.com/ikhwanmaulana07" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+### 🏛️ Executive Profile & Engineering Philosophy
 
 ```yaml
-name        : Ikhwan Maulana
-role        : Machine Learning Engineer
-location    : Bekasi, Indonesia 🇮🇩
-education   : B.Sc Informatics Engineering — Universitas Gunadarma
-              GPA 3.78/4.00 · Class of 2026
-focus       : [MLOps, Computer Vision, Generative AI, Scalable ML Systems]
-learning    : [Kubernetes, Ray, LangChain, LLMOps]
-fun_fact    : "Deployed YOLOv11s on mobile for real-time BSF larvae detection 🐝"
+identity:
+  name         : Ikhwan Maulana, S.Kom
+  titles       : [Full Stack Developer, Software Engineer, Machine Learning Engineer]
+  location     : Bekasi / Jakarta, Indonesia
+  credentials  :
+    degree     : B.Sc Informatics Engineering (Universitas Gunadarma)
+    gpa        : 3.78 / 4.00 (High Honors) · Class of 2026
+    certification : BNSP Certified Programmer (National Professional Certification Board)
+    specialties: [Full-Stack Architecture, High-Throughput APIs, Relational Integrity, Edge AI]
+
+system_principles:
+  architecture : Clean Architecture, Domain-Driven Design (DDD), Modular Microservices
+  database     : 3NF Relational Schemas, ACID Compliance, Query Optimization & Caching
+  delivery     : Robust CI/CD, Containerization, Type Safety, Production-Grade Reliability
 ```
 
-- 🔭 Experienced in building production-grade ML pipelines — from data ingestion and feature engineering to model serving and monitoring
-- 🧠 Deep expertise in object detection, image classification, recommendation systems & regression modeling
-- 🐝 Bachelor's thesis: BSF Larva Growth Stage Detection · YOLOv11s → TFLite → Flutter (Edge AI)
-- 🏆 Certified Programmer — National Professional Certification Board (BNSP/LSP), 2025
-- 🤝 Open to collaborate on ML research, open-source MLOps tools & applied AI projects
+> **Engineering Vision:**  
+> Specialized in architecting resilient, production-ready systems from normalized relational schemas and high-throughput RESTful/GraphQL APIs to reactive, accessible user interfaces and edge AI/vision models. Experienced in bridging robust software engineering with cutting-edge artificial intelligence.
 
 ---
 
-## 🧠 Tech Stack & Toolkit
+### 🛠️ Complete Technical Arsenal & Toolkit
 
-<details open>
-<summary><b>🔥 Deep Learning Frameworks</b></summary><br/>
+#### 🌐 1. Frontend Architecture & Client Engineering
+Modern client-side engineering with emphasis on reactive state, type safety, modular design systems, and responsive performance.
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![TFLite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-6B46C1?style=for-the-badge&logo=google&logoColor=white)
-![PyTorch Lightning](https://img.shields.io/badge/PyTorch%20Lightning-792EE5?style=for-the-badge&logo=pytorchlightning&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Diffusers](https://img.shields.io/badge/Diffusers-FF6F61?style=for-the-badge&logo=huggingface&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+</p>
 
-</details>
+#### ⚡ 2. Backend Systems, Microservices & API Architecture
+Distributed services, secure authentication, clean API design, and asynchronous event handling.
 
-<details open>
-<summary><b>👁️ Computer Vision</b></summary><br/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Go_(Golang)-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PHP_(MVC)-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/RESTful_APIs-0052CC?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+</p>
 
-![YOLO](https://img.shields.io/badge/YOLOv8%2Fv11-111F68?style=for-the-badge&logo=ultralytics&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
-![Detectron2](https://img.shields.io/badge/Detectron2-1877F2?style=for-the-badge&logo=meta&logoColor=white)
-![Albumentations](https://img.shields.io/badge/Albumentations-FF4088?style=for-the-badge&logo=python&logoColor=white)
-![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white)
-![MMDetection](https://img.shields.io/badge/MMDetection-0096D6?style=for-the-badge&logo=python&logoColor=white)
-![DeepStream](https://img.shields.io/badge/NVIDIA%20DeepStream-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Torchvision](https://img.shields.io/badge/Torchvision-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+#### 💾 3. Database Engineering, Caching & Relational Design
+Strict schema normalization, indexing, transaction integrity, and sub-millisecond in-memory caching.
 
-</details>
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
 
-<details open>
-<summary><b>✨ Generative AI & LLM Engineering</b></summary><br/>
+#### ☁️ 4. Cloud Infrastructure, DevOps & Containerization
+Automated deployment pipelines, container virtualization, web server configuration, and environment parity.
 
-![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llama&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![vLLM](https://img.shields.io/badge/vLLM-000000?style=for-the-badge&logo=python&logoColor=white)
-![LiteLLM](https://img.shields.io/badge/LiteLLM-000000?style=for-the-badge&logo=python&logoColor=white)
-![DeepSpeed](https://img.shields.io/badge/DeepSpeed-000000?style=for-the-badge&logo=microsoft&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Linux_Bash-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/AWS_(EC2%2C_S3)-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-</details>
+#### 🧠 5. AI, Machine Learning & Edge Computer Vision
+End-to-end ML lifecycle from model training and optimization to edge deployment and Generative AI orchestration.
 
-<details open>
-<summary><b>📈 Classical Machine Learning</b></summary><br/>
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/YOLOv11%20%2F%20v8-111F68?style=for-the-badge&logo=ultralytics&logoColor=white" alt="YOLO" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/TFLite_(Edge_AI)-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TFLite" />
+  <img src="https://img.shields.io/badge/Flutter_(Edge_AI)-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
+  <img src="https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+</p>
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=for-the-badge&logo=xgboost&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge&logo=lightgbm&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logo=catboost&logoColor=black)
-![Imbalanced-learn](https://img.shields.io/badge/Imbalanced--learn-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-![Optuna](https://img.shields.io/badge/Optuna-0081CB?style=for-the-badge&logo=python&logoColor=white)
-![Hyperopt](https://img.shields.io/badge/Hyperopt-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-FF6F61?style=for-the-badge&logo=python&logoColor=white)
+#### 📐 6. Software Engineering Rigor, Testing & Design
+Systematic engineering practices ensuring high code quality, maintainability, and domain clarity.
 
-</details>
-
-<details open>
-<summary><b>🗂️ Vector Databases & Retrieval</b></summary><br/>
-
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=databricks&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-3776AB?style=for-the-badge&logo=meta&logoColor=white)
-![Weaviate](https://img.shields.io/badge/Weaviate-311C87?style=for-the-badge&logo=weaviate&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-FF8F00?style=for-the-badge&logo=qdrant&logoColor=white)
-![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>⚙️ MLOps & Deployment</b></summary><br/>
-
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
-![ONNX Runtime](https://img.shields.io/badge/ONNX%20Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![W&B](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=data-version-control&logoColor=white)
-![BentoML](https://img.shields.io/badge/BentoML-43B02A?style=for-the-badge&logo=python&logoColor=white)
-![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>☁️ Cloud & GPU Computing</b></summary><br/>
-
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Triton](https://img.shields.io/badge/NVIDIA%20Triton-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Cloud Run](https://img.shields.io/badge/Cloud%20Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>📊 Data Science & Analysis</b></summary><br/>
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white)
-![Dask](https://img.shields.io/badge/Dask-FC6E6B?style=for-the-badge&logo=dask&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🗄️ Databases</b></summary><br/>
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>💻 Programming Languages</b></summary><br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🌐 Web, Mobile & Backend</b></summary><br/>
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![PHP MVC](https://img.shields.io/badge/PHP%20Native%20MVC-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🛠️ Dev Tools & Others</b></summary><br/>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![ngrok](https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white)
-
-</details>
+<p align="left">
+  <img src="https://img.shields.io/badge/Clean_Architecture-0F172A?style=for-the-badge&logo=blueprint&logoColor=38BDF8" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/Domain--Driven_Design_(DDD)-0F172A?style=for-the-badge&logo=blueprint&logoColor=38BDF8" alt="DDD" />
+  <img src="https://img.shields.io/badge/RBAC_Security-0F172A?style=for-the-badge&logo=auth0&logoColor=10B981" alt="RBAC" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
 
 ---
 
-## 💡 Selected Projects
+### 🚀 Production Systems & Flagship Engineering Work
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🐝 BSF Larva Growth Stage Detection
-*Bachelor's Thesis · 2026*
-
-`YOLOv11s` `ResNet50` `TFLite` `Flutter` `K-Means`
-
-End-to-end CV system detecting 4 growth stages of Black Soldier Fly larvae from 21,974 annotated images. Deployed on-device via TensorFlow Lite in a Flutter app.
-
-📊 Precision: 0.9723 · mAP50: 0.8720
-
-</td>
-<td width="50%" valign="top">
-
-### 🎬 AI-Powered Movie Recommender
-*Personal Project*
-
-`Streamlit` `Content-Based Filtering` `Collaborative Filtering` `Cosine Similarity`
-
-Recommendation engine using cosine similarity over movie metadata with real-time search, genre filtering, and dynamic poster fetching via TMDB API.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🖼️ AI-Based Image Classification App
-*Personal Project*
-
-`TensorFlow` `Keras` `Streamlit` `Pre-trained CNNs`
-
-Interactive image classification powered by pre-trained CNNs with automated preprocessing, confidence visualization, and a beginner-friendly UI.
-
-</td>
-<td width="50%" valign="top">
-
-### 🏪 Malaka Jaya MSME Community Portal
-*Community Project*
-
-`PHP` `MySQL` `Leaflet.js` `Gemini API` `OTP Auth`
-
-3-tier role platform (admin · merchant · user) with interactive maps, merchant dashboards, OTP authentication, and an integrated Gemini-powered AI chatbot.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 RAG-based Document Q&A System
-*Personal Project*
-
-`LangChain` `ChromaDB` `OpenAI API` `Streamlit`
-
-Retrieval-Augmented Generation system for querying private documents. Features chunking, embedding, vector search, and conversational memory.
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 Sales Forecasting Dashboard
-*Data Science Project*
-
-`Prophet` `XGBoost` `Plotly` `FastAPI`
-
-Time-series forecasting dashboard with automated model selection, hyperparameter tuning, and interactive visualizations for business insights.
-
-</td>
-</tr>
+<table>
+  <thead>
+    <tr>
+      <th width="35%">Project & System</th>
+      <th width="45%">Architecture & Technical Scope</th>
+      <th width="20%">Key Metrics / Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <b>🐝 BSF Larva Growth Detection (Edge AI)</b><br/>
+        <sub>Bachelor Thesis Research · Universitas Gunadarma</sub>
+      </td>
+      <td>
+        • Engineered real-time edge computer vision model for 4 larva growth stages.<br/>
+        • Trained custom <b>YOLOv11s</b> architecture on curated agricultural dataset.<br/>
+        • Quantized model to <b>TensorFlow Lite (TFLite)</b> and deployed on <b>Flutter</b> for mobile edge inference with zero cloud latency.
+      </td>
+      <td>
+        <code>21,900 Images</code><br/>
+        <code>97.23% Precision</code><br/>
+        <code>Edge Deployment</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>🏪 Malaka Jaya MSME Community Portal</b><br/>
+        <sub>Full-Stack Web Application & Local Business Directory</sub>
+      </td>
+      <td>
+        • Architected full-stack portal with custom <b>PHP MVC</b> and <b>MySQL</b> schema.<br/>
+        • Integrated <b>Google Gemini API</b> for automated AI customer chatbot assistance.<br/>
+        • Implemented interactive geospatial vendor mapping using <b>Leaflet.js</b> and <b>Fetch API</b>.
+      </td>
+      <td>
+        <code>Production Live</code><br/>
+        <code>AI Chatbot</code><br/>
+        <code>Spatial Mapping</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>🏫 SMP Islam Al-Amin Academic Grading System</b><br/>
+        <sub>Enterprise Academic Record & School Information System</sub>
+      </td>
+      <td>
+        • Designed multi-role portal (Superadmin, Teacher, Student) with <b>RBAC Security</b>.<br/>
+        • Engineered relational 3NF database schema in <b>MySQL</b> for academic transcript integrity.<br/>
+        • Built automated real-time GPA and curriculum evaluation algorithms with PDF reporting.
+      </td>
+      <td>
+        <code>Relational 3NF</code><br/>
+        <code>RBAC Security</code><br/>
+        <code>Production Deployed</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>⚡ Veyora Technologies Corporate Platform</b><br/>
+        <sub>Modern Enterprise Web Application</sub>
+      </td>
+      <td>
+        • Built high-performance web experience using <b>Next.js 16</b>, <b>React 19</b>, and <b>TypeScript</b>.<br/>
+        • Crafted dynamic visual micro-interactions with <b>Framer Motion</b> and <b>Tailwind CSS</b>.<br/>
+        • Optimized Web Vitals for lightning-fast page loading and full SEO compliance.
+      </td>
+      <td>
+        <code>Next.js 16 / React 19</code><br/>
+        <code>Sub-second LCP</code><br/>
+        <code>WCAG AA Compliant</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>🎬 AI Content-Based Movie Recommender</b><br/>
+        <sub>Machine Learning Recommendation Service</sub>
+      </td>
+      <td>
+        • Developed similarity engine using <b>TF-IDF Vectorization</b> and <b>Cosine Similarity</b>.<br/>
+        • Built lightweight interactive interface using <b>Python & Streamlit</b>.<br/>
+        • Deployed RESTful query endpoint for real-time recommendation retrieval.
+      </td>
+      <td>
+        <code>NLP & Vectorization</code><br/>
+        <code>Sub-100ms Inference</code><br/>
+        <code>REST API</code>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
-<div align="center"><i>📌 More projects available in my repositories below.</i></div>
+---
+
+### 📊 Engineering Analytics & Activity Metrics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=IkhwanMaulana07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030712&title_color=38bdf8&text_color=cbd5e1&icon_color=06b6d4" alt="GitHub Stats" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkhwanMaulana07&layout=compact&theme=tokyonight&hide_border=true&bg_color=030712&title_color=38bdf8&text_color=cbd5e1" alt="Top Languages" width="100%" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IkhwanMaulana07&theme=tokyonight&hide_border=true&background=030712&ring=38bdf8&fire=06b6d4&currStreakLabel=38bdf8" alt="GitHub Streak" width="95%" />
+</div>
 
 ---
 
-## 📊 GitHub Stats
+### 🤝 Connect & Collaboration
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-brown-gamma-13.vercel.app/api?username=IkhwanMaulana07&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180" src="https://github-readme-stats-brown-gamma-13.vercel.app/api/top-langs/?username=IkhwanMaulana07&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+<p align="center">
+  <b>Looking for a Full-Stack Engineer, Software Engineer, or AI Systems Developer?</b><br/>
+  Let us discuss how we can build scalable, high-performance applications together.
+</p>
 
-</div>
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=IkhwanMaulana07&theme=radical&hide_border=true&background=0D1117&fire=FF4757&currStreakLabel=FFD700&ring=FF4757&sideNums=FF4757&currStreakNum=FFD700" width="80%"/>
+<p align="center">
+  <a href="https://portfolio-ikhwan-maulana.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/EXPLORE_INTERACTIVE_PORTFOLIO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="mailto:ikhwanmaulana796@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/SEND_EMAIL-38BDF8?style=for-the-badge&logo=gmail&logoColor=030712" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/ikhwan-maulana-1700b842b" target="_blank">
+    <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/IkhwanMaulana07/IkhwanMaulana07/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=IkhwanMaulana07&theme=radical&no-frame=true&row=1&column=7&margin-w=8" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 Let's Connect & Collaborate
-
-<a href="https://linkedin.com/in/ikhwan-maulana-1700b842b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ikhwanmaulana796@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://instagram.com/ikhwanmaulana07"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://github.com/IkhwanMaulana07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://portfolio-react-ochre-gamma.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-
-<i>⭐️ If you find my work interesting, feel free to star a repo or reach out!</i>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:000000,50:0f2557,100:1b3a6b&height=120&section=footer" width="100%"/>
+<sub>Crafted with precision · Designed for scalability and high performance</sub>
 
 </div>
