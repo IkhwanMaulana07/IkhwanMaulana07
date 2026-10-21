@@ -4,14 +4,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,35:0a192f,70:002b5b,100:030712&height=280&section=header&text=IKHWAN%20MAULANA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20Machine%20Learning%20Engineer&descAlignY=58&descSize=18" width="100%" alt="Ikhwan Maulana Header Banner" />
 
 <!-- Dynamic Luxury Typing Headline -->
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=860&lines=Full-Stack+Software+Engineer+%26+System+Architect+%E2%9A%A1;Architecting+Production+Web+Apps+%26+High-Throughput+APIs+%F0%9F%8F%9B%EF%B8%8F;End-to-End+Lifecycle%3A+React+%E2%80%A2+Node.js+%E2%80%A2+MySQL%2FPostgreSQL+%E2%80%A2+Cloud+%F0%9F%9A%80;Edge+AI+%26+Computer+Vision%3A+YOLOv11s+%E2%80%A2+TFLite+%E2%80%A2+Flutter+%F0%9F%90%9D;B.Sc+Informatics+Engineering+(GPA+3.78)+%E2%80%A2+BNSP+Certified+%F0%9F%8F%86" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=19&pause=1000&color=0284C7&center=true&vCenter=true&width=760&lines=Full-Stack+Software+Engineer+%26+System+Architect+%E2%9A%A1;Production+Web+Apps+%26+High-Throughput+APIs+%F0%9F%8F%9B%EF%B8%8F;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL+%E2%80%A2+Cloud+%F0%9F%9A%80;Edge+AI+%26+Computer+Vision%3A+YOLOv11s+%E2%80%A2+TFLite+%E2%80%A2+Flutter+%F0%9F%90%9D;B.Sc+Informatics+Engineering+(GPA+3.78)+%E2%80%A2+BNSP+Certified+%F0%9F%8F%86" alt="Typing SVG" />
 
 <br/>
 
 <!-- Real-Time Availability & Professional Status Badge -->
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20FULLSTACK%20%26%20SWE%20ROLES-10B981?style=for-the-badge&logo=statuspage&logoColor=white" alt="Availability Status" />
-  <img src="https://komarev.com/ghpvc/?username=IkhwanMaulana07&label=PROFILE%20VISITS&color=06B6D4&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=IkhwanMaulana07&label=Profile%20Views&color=06b6d4&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <!-- Executive Contact & Social Deck -->
