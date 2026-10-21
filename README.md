@@ -11,7 +11,7 @@
 <!-- Real-Time Availability & Professional Status Badge -->
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20FULLSTACK%20%26%20SWE%20ROLES-10B981?style=for-the-badge&logo=statuspage&logoColor=white" alt="Availability Status" />
-  <img src="https://komarev.com/ghpvc/?username=IkhwanMaulana07&label=Profile%20Views&color=2EA043&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=IkhwanMaulana07&label=PROFILE+VIEWS&color=06b6d4&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <!-- Executive Contact & Social Deck -->
